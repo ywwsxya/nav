@@ -11,7 +11,7 @@ const c: IConfig = {
   hashMode: true,
 
   // 是否显示右上角的 Github 图标
-  showGithub: true,
+  showGithub: false,
 
   // 您的网站地址，有利于SEO
   homeUrl: 'https://19970310.xyz',
@@ -26,7 +26,7 @@ const c: IConfig = {
   keywords: '导航,HACK,CTF,WEB,实用工具,PYTHON,爬虫,网络安全,面试',
 
   // 默认主题: Light | Sim | Side | App
-  theme: 'Light',
+  theme: 'Sim',
 
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
