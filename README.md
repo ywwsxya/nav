@@ -25,7 +25,7 @@
 ## 预览
 **主题**
 
-- [Sim 在线预览](https://19970310.xyz/#/sim)
+- [Sim 在线预览](https://ywwsxya.github.io/nav/#/sim)
 - [Light 在线预览](https://19970310.xyz/#/light)
 - [Side 在线预览](https://19970310.xyz/#/side)
 - [App 在线预览](https://19970310.xyz/#/app)
