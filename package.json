@@ -1,16 +1,16 @@
 {
-  "name": "nav",
+  "name": "upup",
   "version": "1.1.3",
-  "author": "xiejiahe",
-  "link": "https://github.com/xjh22222228/nav",
-  "description": "爱分享，爱创造，一个资源难寻的导航网站",
+  "author": "xxynly",
+  "link": "https://github.com/ywwsxya/nav",
+  "description": "upup的导航站",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "webpack -w",
     "dev": "npm run start"
   },
-  "author": "xiejiahe",
+  "author": "xxynly",
   "license": "MIT",
   "devDependencies": {
     "webpack": "^4.6.0",
