@@ -17,10 +17,10 @@ const c: IConfig = {
   homeUrl: 'https://19970310.xyz',
 
   // 网站标题
-  title: 'upup导航',
+  title: 'upup',
 
   // 网站描述
-  description: 'upup自用导航',
+  description: '保持热爱，奔赴山海',
 
   // 网站关键字
   keywords: '导航,HACK,CTF,WEB,实用工具,PYTHON,爬虫,网络安全,面试',
@@ -31,7 +31,7 @@ const c: IConfig = {
   // 网站底部内容, 版权信息、备案号, 可以是 HTML
   footerContent: `
     <div style="font-weight: bold;">共收录\${total}个网站</div>
-    <div>Copyright © 2018-2021 19970310.xyz, All Rights Reserved</div>
+    <div>Copyright © 2020-2021 19970310.xyz, All Rights Reserved</div>
   `,
 
   // 百度统计地址
@@ -81,7 +81,7 @@ const c: IConfig = {
     posterImageUrls: [
       'https://raw.sevencdn.com/ywwsxya/nav/image/sim-wallpaper.jpg'
     ],
-    description: 'my hack 工具站，收录<b>${total}</b> 个优质网站'
+    description: '保持热爱，奔赴山海'
   }
 }
 
